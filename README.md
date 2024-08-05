@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charlenedelfin.
-- 👀 I’m interested in web programming.
-- 🌱 I’m currently learning C, HTML, CSS, and Java.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently working towards a master's degree in IT.
 - 📫 
 
 <!---
